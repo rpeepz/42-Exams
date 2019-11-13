@@ -6,7 +6,7 @@ The question here are much harder than the [Beginner] series, and have a higher 
 <br>
 
 ## Solutions to questions I have attempted are linked below  
-##### view above links to see the subject description of the problem
+##### view above directories to see the subject description of the problems
 ---
 `Level 0`  
 
