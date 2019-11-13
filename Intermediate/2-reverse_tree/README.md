@@ -1,6 +1,6 @@
 # Reverse Tree
 
-> Implement a function to reverse a binary tree (i.e., flip it from right to left).
+Implement a function to reverse a binary tree (i.e., flip it from right to left).
 
 The function must be declared as follows:
 
