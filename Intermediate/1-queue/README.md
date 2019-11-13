@@ -1,6 +1,6 @@
 # Queue
 
-> Implement a queue data structure in C, using the following structures in your
+Implement a queue data structure in C, using the following structures in your
 code:
 ``` c
 	struct s_node {
