@@ -1,6 +1,6 @@
 # Stack
 
-> Implement a stack data structure in C, using the following structures in your
+Implement a stack data structure in C, using the following structures in your
 code:
 ``` c
 	struct s_node {
