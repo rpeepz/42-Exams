@@ -1,8 +1,7 @@
 # Equation
 
-```
-Implement a function which counts, for a given integer n, the number of 2s that appear in all the numbers between 0 and n (inclusive).
-```
+>Implement a function which counts, for a given integer n, the number of 2s that appear in all the numbers between 0 and n (inclusive).
+
 
 The function must be declared as follows:
 
