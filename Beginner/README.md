@@ -10,32 +10,73 @@ The question here are to serve as a basic test to your understanding of the C la
 ---
 
 `Level 0`  
-[Aff A] , [Aff last param] , [Aff Z] , [ft_print_numbers]
-[Maff Alpha] , [Only A] , [Only Z]  
+[Aff A]  
+[Aff last param]  
+[Aff Z]  
+[ft_print_numbers]  
+[Maff Alpha]  
+[Only A]  
+[Only Z]  
 
 `Level 1`  
-[Count Alpha] , [First Word] , [FizzBuzz] , [ft_putstr]  
-[ft_strcpy] , [ft_strlen] , [Repeat alpha] , [Rev Print]
+[Count Alpha]  
+[First Word]  
+[FizzBuzz]  
+[ft_putstr]  
+[ft_strcpy]  
+[ft_strlen]  
+[Repeat alpha]  
+[Rev Print]  
 [Rot 13]  
 
 `Level 2`  
-[Alpha Mirror] , [CamelToSnake] , [Do Op] , [ft_strcmp]
-[ft_strpbrk] , [ft_strrev] , [Inner] , [Is Power of 2]
-[Last Word] , [Print Bits] , [Reverse Bits] , [Snake_to_camel]
-[Swap Bits] , [Wdmatch]  
+[Alpha Mirror]  
+[CamelToSnake]  
+[Do Op]  
+[ft_strcmp]  
+[ft_strpbrk]  
+[ft_strrev]  
+[Inner]  
+[Is Power of 2]  
+[Last Word]  
+[Print Bits]  
+[Reverse Bits]  
+[Snake_to_camel]  
+[Swap Bits]  
+[Wdmatch]  
 
 `Level 3`  
-[Add Prime Sum] , [Epur Str] , [Expand Str] , [ft_atoi_base]
-[ft_list_size] , [ft_rrange] , [hidenp]  [LCM] , [Paramsum]
-[Print Hex] , [Rstr Capitalizer] , [Str Capitalizer] , [Tab Mult]  
+[Add Prime Sum]  
+[Epur Str]  
+[Expand Str]  
+[ft_atoi_base]
+[ft_list_size]  
+[ft_rrange]  
+[hidenp]  
+[LCM]  
+[Paramsum]
+[Print Hex]  
+[Rstr Capitalizer]  
+[Str Capitalizer]  
+[Tab Mult]  
 
 `Level 4`  
-[Flood Fill] , [Fprime] , [ft_itoa] , [ft_list_remove_if] , [ft_split]
-[Rev Wstr] , [Rostring] , [Sort List]  
+[Flood Fill]  
+[Fprime]  
+[ft_itoa]  
+[ft_list_remove_if]  
+[ft_split]
+[Rev Wstr]  
+[Rostring]  
+[Sort List]  
 
 `Level 5`  
-[Brackets] , [Check Mate] , [ft_itoa_base]  
-[Options] , [Print Memory] , [Rpn Calc]  
+[Brackets]  
+[Check Mate]  
+[ft_itoa_base]  
+[Options]  
+[Print Memory]  
+[Rpn Calc]  
 
 
 [piscine]: https://www.42.us.org/program/piscine/ "Piss-een"  

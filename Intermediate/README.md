@@ -10,17 +10,25 @@ The question here are much harder than the [Beginner] series, and have a higher 
 ---
 
 `Level 0`  
-
-[Count of 2] , [Equation] , [Print Doublon]  
+[Count of 2]  
+[Equation]  
+[Print Doublon]  
 
 `Level 1`  
-[Count Alpha] , [Queue] , [Stack]  
+[Count Alpha]  
+[Queue]  
+[Stack]  
 
 `Level 2`  
-[Longest Sequence] , [Ord Alphlong] , [Reverse Tree]  
+[Longest Sequence]  
+[Ord Alphlong]  
+[Reverse Tree]  
 
 `Level 3`  
-[Can Split] , [Convert BST] , [Gold Gain] , [Perimeter]  
+[Can Split]  
+[Convert BST]  
+[Gold Gain]  
+[Perimeter]  
 [Width Tree]  
 
 
