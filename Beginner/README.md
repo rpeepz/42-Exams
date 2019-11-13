@@ -9,74 +9,33 @@ The question here are to serve as a basic test to your understanding of the C la
 ##### view above directories to see the subject description of the problems
 ---
 
-`Level 0`  
-[Aff A]  
-[Aff last param]  
-[Aff Z]  
-[ft_print_numbers]  
-[Maff Alpha]  
-[Only A]  
-[Only Z]  
+|      `Level 0`    |    |  `Level 1`      |   |   `Level 2`        |
+|       :-         | -  |     :-:         | - |     -:            |
+|[Aff A]            |    | [Count Alpha]   |   | [Alpha Mirror]     |
+|[Aff last param]   |    | [Count Alpha]   |   | [CamelToSnake]     |
+|[Aff Z]            |    | [First Word]    |   | [Do Op]            |
+|[ft_print_numbers] |    | [FizzBuzz]      |   | [ft_strcmp]        |
+|[Maff Alpha]       |    | [ft_putstr]     |   | [ft_strpbrk]       |
+|[Only A]           |    | [ft_strcpy]     |   | [ft_strrev]        |
+|[Only Z]           |    | [ft_strlen]     |   | [Inner]            |
+|                   |    | [Repeat alpha]  |   | [Is Power of 2]    |
+|                   |    | [Rev Print]     |   | [Last Word]        |
+|  `Level 3`        |    | [Rot 13]        |   | [Print Bits]       |
+|[Add Prime Sum]    |    |                 |   | [Reverse Bits]     |
+|[Epur Str]         |    |                 |   | [Snake_to_camel]   |
+|[Expand Str]       |    |                 |   | [Swap Bits]        |
+|[ft_atoi_base]     |    |                 |   | [Wdmatch]          |
+|[ft_list_size]     |    |  `Level 4`        | |                    |
+|[ft_rrange]        |    |[Flood Fill]       | |                    |
+|[hidenp]           |    |[Fprime]           | |  `Level 5`         |
+|[LCM]              |    |[ft_itoa]          | | [Brackets]         |
+|[Paramsum]         |    |[ft_list_remove_if]| | [Check Mate]       |
+|[Print Hex]        |    |[ft_split]         | | [ft_itoa_base]     |
+|[Rstr Capitalizer] |    |[Rev Wstr]         | | [Options]          |
+|[Str Capitalizer]  |    |[Rostring]         | | [Print Memory]     |
+|[Tab Mult]         |    |[Sort List]        | | [Rpn Calc]         |
 
-`Level 1`  
-[Count Alpha]  
-[First Word]  
-[FizzBuzz]  
-[ft_putstr]  
-[ft_strcpy]  
-[ft_strlen]  
-[Repeat alpha]  
-[Rev Print]  
-[Rot 13]  
-
-`Level 2`  
-[Alpha Mirror]  
-[CamelToSnake]  
-[Do Op]  
-[ft_strcmp]  
-[ft_strpbrk]  
-[ft_strrev]  
-[Inner]  
-[Is Power of 2]  
-[Last Word]  
-[Print Bits]  
-[Reverse Bits]  
-[Snake_to_camel]  
-[Swap Bits]  
-[Wdmatch]  
-
-`Level 3`  
-[Add Prime Sum]  
-[Epur Str]  
-[Expand Str]  
-[ft_atoi_base]
-[ft_list_size]  
-[ft_rrange]  
-[hidenp]  
-[LCM]  
-[Paramsum]
-[Print Hex]  
-[Rstr Capitalizer]  
-[Str Capitalizer]  
-[Tab Mult]  
-
-`Level 4`  
-[Flood Fill]  
-[Fprime]  
-[ft_itoa]  
-[ft_list_remove_if]  
-[ft_split]
-[Rev Wstr]  
-[Rostring]  
-[Sort List]  
-
-`Level 5`  
-[Brackets]  
-[Check Mate]  
-[ft_itoa_base]  
-[Options]  
-[Print Memory]  
-[Rpn Calc]  
+<br>
 
 
 [piscine]: https://www.42.us.org/program/piscine/ "Piss-een"  
