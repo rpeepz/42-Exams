@@ -21,6 +21,16 @@ These many problems have many solutions, there is no single _right_ answer but t
 
 <br>
 
+## Keep in Touch
+
+If you find anything wrong here, or want to reach out to me for anything else,  
+You can find me on:
+* [Github](https://github.com/rpeepz) 
+* [Twitter](https://twitter.com/papagna94) 
+* [LinkedIn](https://www.linkedin.com/in/rpapagna-510) 
+<!-- * [Medium](https://medium.com/@themichaelbrave)  -->
+<!-- * [Home] -->
+
 
 [Beginner]: https://github.com/rpeepz/42-Exams/tree/master/Beginner#beginner "Easy day"
 [Intermediate]:  https://github.com/rpeepz/42-Exams/tree/master/Intermediate#intermediate "real shit"
