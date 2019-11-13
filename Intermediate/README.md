@@ -25,7 +25,7 @@ The question here are much harder than the [Beginner] series, and have a higher 
 
 
 
-[Beginner]:  https://github.com/rpeepz/42-Exams/tree/master/Beginner "training wheels"
+[Beginner]:  https://github.com/rpeepz/42-Exams/tree/master/Beginner#beginner "training wheels"
 [Count of 2]:  https://github.com/rpeepz/42-Exams/blob/master/Intermediate/0-count_of_2/count_of_2_09:10:19.c "count"  
 [Equation]:  https://github.com/rpeepz/42-Exams/blob/master/Intermediate/0-equation/equation_09:17:19.c "equate"  
 [Print Doublon]: https://github.com/rpeepz/42-Exams/blob/master/Intermediate/0-print_doublon/print_doublon_11:12:19.c "doublon"  

@@ -9,7 +9,9 @@ This repository is split into two parts: [Beginner] and [Intermediate].
 
 ```
 DISCLAIMER:  
-files marked with .fail are unsuccesful soultions and are posted for educational purposes
+SOME EXAM SUBJECTS MAY HAVE CHANGED SINCE UPLOAD.
+
+.fail files are unsuccesful soultions and are posted for educational purposes
 ```
 
 
@@ -20,5 +22,5 @@ These many problems have many solutions, there is no single _right_ answer but t
 <br>
 
 
-[Beginner]: https://github.com/rpeepz/42-Exams/blob/master/Beginner/ "Easy day"
-[Intermediate]:  https://github.com/rpeepz/42-Exams/blob/master/Intermediate/ "real shit"
+[Beginner]: https://github.com/rpeepz/42-Exams/tree/master/Beginner#beginner "Easy day"
+[Intermediate]:  https://github.com/rpeepz/42-Exams/tree/master/Intermediate#intermediate "real shit"
